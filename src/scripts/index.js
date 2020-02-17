@@ -18,4 +18,4 @@ promiseOfModal.then(value => {
     value.style.display = 'block';
 })
 
-closeModal.addEventListener('click', () => myModal.style.display = 'none');
+closeModal.addEventListener('click', () => modal.style.display = 'none');
